@@ -1,3 +1,3 @@
 # Web-Design
-HTML, JavaScript, CSS
-A repository to share my knowledge in Web-Design
+HTML, JavaScript and CSS.
+A repository to share my projects and knowledge about Web-Design
