@@ -162,7 +162,7 @@
 											{
 												if(isset($mensaje))
 												{
-													$para = "agarudi@hotmail.com"
+													$para = "andress60557@gmail.com";
 													$asunto = "Esto es una prueba";
 													$cuerpo = $nombre."\n".$email."\n".$mensaje;
 													$adicional = "From: noreply@agarcia.com";
@@ -208,9 +208,9 @@
 							Datos de contcto
 						</h3>
 						<ul>
-							<li>jacobo.amaru@gmail.com</li>
-							<li>+51987654321</li>
-							<li>Av. universitaria 2345 - Pueblo Libre<br>Lima - Perú</li>
+							<li>andress60557@gmail.com</li>
+							<li>+59160557026/li>
+							<li>Las Retamas -Seguencoma<br>La Paz-Bolivia</li>
 						</ul>
 					</div>
 					<div class="columna columna-25 columna-mobile-100">
